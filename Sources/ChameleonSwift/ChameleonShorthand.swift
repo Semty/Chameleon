@@ -28,6 +28,7 @@
  */
 
 import UIKit
+import Chameleon
 
 // MARK: - UIColor Methods Shorthand
 
